@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+
+  .section {
+    width: 100%;
+    height: calc(100vh - 60px);
+    background-color: coral;
+    position: relative;
+    top: 60px;
+  }
+}
